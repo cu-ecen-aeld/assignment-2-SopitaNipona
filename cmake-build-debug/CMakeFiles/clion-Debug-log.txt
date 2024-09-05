@@ -1,0 +1,50 @@
+/home/diego/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/diego/.local/share/JetBrains/Toolbox/apps/clion/bin/ninja/linux/x64/ninja -G Ninja -S /home/diego/Documentos/GitHub/assignment-1-SopitaNipona -B /home/diego/Documentos/GitHub/assignment-1-SopitaNipona/cmake-build-debug
+CMake Deprecation Warning at CMakeLists.txt:1 (cmake_minimum_required):
+  Compatibility with CMake < 3.5 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value or use a ...<max> suffix to tell
+  CMake that the project does not need compatibility with older versions.
+
+
+-- The C compiler identification is GNU 14.2.1
+-- The CXX compiler identification is GNU 14.2.1
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/lib64/ccache/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/lib64/ccache/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+CMake Deprecation Warning at assignment-autotest/CMakeLists.txt:13 (cmake_minimum_required):
+  Compatibility with CMake < 3.5 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value or use a ...<max> suffix to tell
+  CMake that the project does not need compatibility with older versions.
+
+
+CMake Deprecation Warning at assignment-autotest/Unity/CMakeLists.txt:11 (cmake_minimum_required):
+  Compatibility with CMake < 3.5 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value or use a ...<max> suffix to tell
+  CMake that the project does not need compatibility with older versions.
+
+
+CMake Deprecation Warning at assignment-autotest/Unity/src/CMakeLists.txt:11 (cmake_minimum_required):
+  Compatibility with CMake < 3.5 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value or use a ...<max> suffix to tell
+  CMake that the project does not need compatibility with older versions.
+
+
+-- Generating ;/home/diego/Documentos/GitHub/assignment-1-SopitaNipona/assignment-autotest/test/assignment1/Test_hello_Runner.c;/home/diego/Documentos/GitHub/assignment-1-SopitaNipona/assignment-autotest/test/assignment1/Test_assignment_validate_Runner.c;/home/diego/Documentos/GitHub/assignment-1-SopitaNipona/assignment-autotest/../student-test/assignment1/Test_validate_username_Runner.c from test/assignment1/Test_hello.c;test/assignment1/Test_assignment_validate.c;../student-test/assignment1/Test_validate_username.c
+-- Building executable including ;/home/diego/Documentos/GitHub/assignment-1-SopitaNipona/assignment-autotest/test/assignment1/Test_hello_Runner.c;/home/diego/Documentos/GitHub/assignment-1-SopitaNipona/assignment-autotest/test/assignment1/Test_assignment_validate_Runner.c;/home/diego/Documentos/GitHub/assignment-1-SopitaNipona/assignment-autotest/../student-test/assignment1/Test_validate_username_Runner.c test/assignment1/Test_hello.c;test/assignment1/Test_assignment_validate.c;../student-test/assignment1/Test_validate_username.c and ../examples/autotest-validate/autotest-validate.c
+-- Configuring done (0.3s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/diego/Documentos/GitHub/assignment-1-SopitaNipona/cmake-build-debug

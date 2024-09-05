@@ -1,0 +1,16 @@
+# ninja log v6
+1	98	1725508038054385980	assignment-autotest/Unity/src/CMakeFiles/unity.dir/unity.c.o	f03bd1095a4783e7
+98	120	1725508038151388624	assignment-autotest/Unity/src/libunity.a	572051313159cfbc
+120	359	1725508038412395738	/home/diego/Documentos/GitHub/assignment-1-SopitaNipona/assignment-autotest/test/assignment1/Test_hello_Runner.c	c4eb4ecdc965f82b
+120	359	1725508038412395738	/home/diego/Documentos/GitHub/assignment-1-SopitaNipona/assignment-autotest/test/assignment1/Test_assignment_validate_Runner.c	c4eb4ecdc965f82b
+120	359	1725508038412395738	/home/diego/Documentos/GitHub/assignment-1-SopitaNipona/student-test/assignment1/Test_validate_username_Runner.c	c4eb4ecdc965f82b
+120	359	1725508038412395738	/home/diego/Documentos/GitHub/assignment-1-SopitaNipona/assignment-autotest/test/unity_runner.c	c4eb4ecdc965f82b
+360	394	1725508038413395765	assignment-autotest/CMakeFiles/assignment-autotest.dir/test/unity_runner.c.o	6f0247dff8c98ad6
+360	398	1725508038413395765	assignment-autotest/CMakeFiles/assignment-autotest.dir/__/examples/autotest-validate/autotest-validate.c.o	a4406b753e3de4f1
+359	418	1725508038412395738	assignment-autotest/CMakeFiles/assignment-autotest.dir/test/assignment1/Test_hello.c.o	b7e320c7f34d5d85
+359	419	1725508038412395738	assignment-autotest/CMakeFiles/assignment-autotest.dir/test/assignment1/Test_assignment_validate.c.o	83ae3c95c73af5a3
+359	420	1725508038413395765	assignment-autotest/CMakeFiles/assignment-autotest.dir/test/assignment1/Test_hello_Runner.c.o	511b6e1399c992a0
+360	422	1725508038413395765	assignment-autotest/CMakeFiles/assignment-autotest.dir/__/student-test/assignment1/Test_validate_username_Runner.c.o	e34cb0fe36b4ee3c
+359	423	1725508038412395738	assignment-autotest/CMakeFiles/assignment-autotest.dir/__/student-test/assignment1/Test_validate_username.c.o	ac998aeb06c8954a
+360	456	1725508038413395765	assignment-autotest/CMakeFiles/assignment-autotest.dir/test/assignment1/Test_assignment_validate_Runner.c.o	a8fde8227c2eed6a
+456	475	1725508038509398382	assignment-autotest/assignment-autotest	b1d3fa97a907762d
